@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaoxiaosi)](https://github.com/gaoxiaosi/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaoxiaosi)](https://github.com/gaoxiaosi/github-readme-stats) -->
 
 <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
 <picture>
