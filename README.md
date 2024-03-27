@@ -3,7 +3,7 @@
   <h1 height="200px" align="center">
     I'm Gaoxiaosi
   </h1>
-   <p align="center">frontend developer from China</p>
+   <p align="center">A frontend developer from China</p>
 </p>
 
 <!-- 技能 -->
